@@ -2,7 +2,13 @@
 
 A modern, responsive e-commerce product listing interface built with Next.js 15, React, and Tailwind CSS. Features a clean design with smooth animations, dynamic routing, and optimized performance.
 
-![Product Listing Interface](./assets/Interface.png)
+
+<p align="center">
+  <img src="./public/assets/Interface.png" width="600" alt="Screenshot">
+   <p align="center">Product Listing Interface</p>
+</p>
+
+
 ## ✨ Features
 
 ### 🛍️ Product Management
