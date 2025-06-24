@@ -41,8 +41,7 @@ A modern, responsive e-commerce product listing interface built with Next.js 15,
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Icons**: [Lucide React](https://lucide.dev/)
-- **Images**: [Unsplash](https://unsplash.com/) via API
-- **Deployment**: [Vercel](https://vercel.com/) (recommended)
+
 
 ## 🚀 Getting Started
 
